@@ -14,4 +14,5 @@ I created, from scratch a full COVID-19 Tracker. I used for this project React, 
 API used: https://covid19.mathdro.id/api
 
 Setup:
-- run ```npm i && npm start```
+- run ``` npm install react-scripts``` (if you get the error "'react-scripts' is not recognized as an internal or external command")
+- run ```--save npm i && npm start```
