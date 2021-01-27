@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(230, 225, 225);
+}
+
+.container {
+    display : flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.image{
+    width:370px;
+    margin-top: 50px;
+    
+}
+
+@media (max-width:770px){
+    .container {
+        margin : 0 10%;
+    }
+    .image {
+        width : 100%;
+    }
+}
+.fixed {
+  
+  color: rgb(0, 0, 0);
+    border-radius: 5%;
+    background-color: #fffefe;
+    position:fixed;
+    top:0;
+    width:100%;
+    transition: 0.5s;
+   
+    
+    z-index:100;}
+    
+    .fixed:hover {
+  color: rgb(255, 255, 255);
+  background-color: black;
+}
+@keyframes example {
+  from {background-color: red;}
+  to {background-color: yellow;}
+}
+
+
+
+
+
+
+
+
+
+
