@@ -1,7 +1,7 @@
 # COVID-19-Tracker-Application
 
 ### [Live Site](https://covid-tracker-kh.netlify.app/)
-![](Covid tracker.gif)
+![](https://github.com/Mehdi-KHALFALLAH/COVID-19-Tracker-Application/blob/main/Covid%20tracker.gif)
 
 
 
