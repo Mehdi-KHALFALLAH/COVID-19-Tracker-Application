@@ -15,4 +15,4 @@ API used: https://covid19.mathdro.id/api
 
 Setup:
 - run ``` npm install react-scripts``` (if you get the error "'react-scripts' is not recognized as an internal or external command")
-- run ```--save npm i && npm start```
+- run ```--save npm i && npm start```.
