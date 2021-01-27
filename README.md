@@ -1,6 +1,6 @@
 # COVID-19-Tracker-Application
 
-### [Live Site] (https://covid-tracker-kh.netlify.app/)
+### [Live Site](https://covid-tracker-kh.netlify.app/)
 ![COVID-19 Tracker]
 
 
